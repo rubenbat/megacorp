@@ -1,5 +1,4 @@
 partner list
 SalesInc 2
 TheStartup
-ClosedML
-
+The lineUP
